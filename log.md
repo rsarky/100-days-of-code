@@ -17,3 +17,19 @@
 
 **Link to work:** [Random Quote Generator](https://github.com/rsarky/random-quote-generator/commits/master)
 
+### Day 2: May 13, 2018
+
+**Today's Progress**: Almost completed the Random Quote Generator
+
+**Thoughts:** Looks ugly need to add background image and fonts
+
+**Link to work:** [Random Quote Generator](https://github.com/rsarky/random-quote-generator/commits/master)
+
+
+### Day 3: May 14, 2018
+
+**Today's Progress**: Completed the Random Quote Generator.
+
+**Thoughts:** Looks pretty decent rn. Maybe apply for production API of unsplash in the future.
+
+**Link to work:** [Random Quote Generator](https://github.com/rsarky/random-quote-generator/commits/master)
