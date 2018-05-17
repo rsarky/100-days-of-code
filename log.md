@@ -33,3 +33,22 @@
 **Thoughts:** Looks pretty decent rn. Maybe apply for production API of unsplash in the future.
 
 **Link to work:** [Random Quote Generator](https://github.com/rsarky/random-quote-generator/commits/master)
+
+
+### Day 4: May 15, 2018
+
+**Today's Progress**: Revised linked lists and implemented linked lists in java. Solved sum questions
+
+**Thoughts:** Started studying data structures and algos.
+
+**Link to work:** 
+
+
+### Day 5: May 16, 2018
+
+**Today's Progress**: Made progress on Angular app for Coursera course.
+
+**Thoughts:** I need to make a project with Angular.
+
+**Link to work:** 
+
