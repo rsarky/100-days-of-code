@@ -52,3 +52,30 @@
 
 **Link to work:** 
 
+
+### Day 6: May 17, 2018
+
+**Today's Progress**: -
+
+**Thoughts:** -
+
+**Link to work:** 
+
+
+### Day 7: May 18, 2018
+
+**Today's Progress**: Studied data structures 
+
+**Thoughts:** I feel like I am overplanning. Just start studying and plan on the go.
+
+**Link to work:** //to be added
+
+
+### Day 8: May 19, 2018
+
+**Today's Progress**: Started and made a basic Todo app in Angular
+
+**Thoughts:** Need to implement some sort of storage.
+
+**Link to work:** //to be added
+
