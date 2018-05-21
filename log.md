@@ -79,3 +79,20 @@
 
 **Link to work:** //to be added
 
+
+### Day 8: May 20, 2018
+
+**Today's Progress**:Did something but dont remember what :p
+
+**Thoughts:** Should really update this log at a specific time say 11pm. Adding an alarm from now on.
+
+**Link to work:** //to be added
+
+
+### Day 9: May 21, 2018
+
+**Today's Progress**: Improved the Todo app and fixed some bugs
+
+**Thoughts:** I am getting better at Angular and front end by doing this project
+
+**Link to work:** https://github.com/rsarky/Todo-Angular
