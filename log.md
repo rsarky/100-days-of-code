@@ -105,3 +105,12 @@
 **Thoughts:** Flexbox is powerful and awesome
 
 **Link to work:** https://github.com/rsarky/Quotey
+
+### Day 11: May 23, 2018
+
+**Today's Progress**: Did some FCC coding exercises
+
+**Thoughts:** Need to think of a new coding project asap
+
+**Link to work:** 
+
