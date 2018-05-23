@@ -96,3 +96,12 @@
 **Thoughts:** I am getting better at Angular and front end by doing this project
 
 **Link to work:** https://github.com/rsarky/Todo-Angular
+
+
+### Day 10: May 22, 2018
+
+**Today's Progress**: Fixed the layout problems of Quotey: Random Quote Generator
+
+**Thoughts:** Flexbox is powerful and awesome
+
+**Link to work:** https://github.com/rsarky/Quotey
