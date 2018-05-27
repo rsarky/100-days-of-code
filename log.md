@@ -114,3 +114,41 @@
 
 **Link to work:** 
 
+
+### Day 11: May 24, 2018
+
+**Today's Progress**: mecgale automation project planning.
+
+**Thoughts:** Need to think of a new coding project asap
+
+**Link to work:** 
+
+
+### Day 11: May 25, 2018
+
+**Today's Progress**: Mecgale automation project setup and navbar
+
+**Thoughts:** -
+
+**Link to work:** 
+
+
+### Day 11: May 26, 2018
+
+**Today's Progress**: Carousel for mecgale automation website.
+
+**Thoughts:** Work required on design
+
+**Link to work:** 
+
+
+### Day 11: May 27, 2018
+
+**Today's Progress**: No code today.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+  
