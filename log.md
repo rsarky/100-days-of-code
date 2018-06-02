@@ -115,7 +115,7 @@
 **Link to work:** 
 
 
-### Day 11: May 24, 2018
+### Day 12: May 24, 2018
 
 **Today's Progress**: mecgale automation project planning.
 
@@ -124,7 +124,7 @@
 **Link to work:** 
 
 
-### Day 11: May 25, 2018
+### Day 13: May 25, 2018
 
 **Today's Progress**: Mecgale automation project setup and navbar
 
@@ -133,7 +133,7 @@
 **Link to work:** 
 
 
-### Day 11: May 26, 2018
+### Day 14: May 26, 2018
 
 **Today's Progress**: Carousel for mecgale automation website.
 
@@ -142,11 +142,59 @@
 **Link to work:** 
 
 
-### Day 11: May 27, 2018
+### Day 15: May 27, 2018
 
 **Today's Progress**: No code today.
 
 **Thoughts:** 
+
+**Link to work:** 
+
+### Day 16: May 28, 2018
+
+**Today's Progress**: Mecgale Automation work
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 17: May 29, 2018
+
+**Today's Progress**: Mecgale Automation work
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 18: May 30, 2018
+
+**Today's Progress**: Mecgale Automation work
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 19: May 31, 2018
+
+**Today's Progress**: Mecgale Automation work
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 20: June 1, 2018
+
+**Today's Progress**: codeforces contest.
+
+**Thoughts:** Keep taking part in coding contests.
+
+**Link to work:** 
+
+### Day 21: June 2, 2018
+
+**Today's Progress**: Solved question that I wasnt able to solve yesterday.Codechef contest 1 problem.
+
+**Thoughts:** Start doing competitive programming seriously and make a plan to go through CTCI
 
 **Link to work:** 
 
