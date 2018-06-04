@@ -198,5 +198,21 @@
 
 **Link to work:** 
 
+### Day 22: June 3, 2018
+
+**Today's Progress**: Solved some problems from Codeforces
+
+**Thoughts:** Getting better at this and really starting to get the hang of competitive programming.
+
+**Link to work:** 
+
+### Day 23: June 2, 2018
+
+**Today's Progress**: Solved 2 more questions from CTCI ch 1.
+
+**Thoughts:** Need to study more and increase the amount of problems I solve while not compromising on the effort on the problem. Have made a study plan.TL:DR Complete CTCI. Refer book and GFG to supplement it.
+
+**Link to work:** 
+
 
   
