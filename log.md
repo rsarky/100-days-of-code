@@ -206,11 +206,20 @@
 
 **Link to work:** 
 
-### Day 23: June 2, 2018
+### Day 23: June 4, 2018
 
 **Today's Progress**: Solved 2 more questions from CTCI ch 1.
 
 **Thoughts:** Need to study more and increase the amount of problems I solve while not compromising on the effort on the problem. Have made a study plan.TL:DR Complete CTCI. Refer book and GFG to supplement it.
+
+**Link to work:** 
+
+
+### Day 23: June 5, 2018
+
+**Today's Progress**: Studied about hashing and implemented a basic hash table. Solved 4 questions from CTCI.
+
+**Thoughts:** I am happy with the progress I am making. Need to improve time management further to maximize output.
 
 **Link to work:** 
 
