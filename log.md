@@ -224,4 +224,23 @@
 **Link to work:** 
 
 
+### Day 24: June 6, 2018
+
+**Today's Progress**: Started Linked Lists. 3 questions done.
+
+**Thoughts:** Strings Last question left.
+
+**Link to work:** 
+
+
+
+### Day 23: June 5, 2018
+
+**Today's Progress**: Studied about hashing and implemented a basic hash table. Solved 4 questions from CTCI.
+
+**Thoughts:** I am happy with the progress I am making. Need to improve time management further to maximize output.
+
+**Link to work:** 
+
+
   
