@@ -234,11 +234,30 @@
 
 
 
-### Day 23: June 5, 2018
+### Day 25: June 7, 2018
 
 **Today's Progress**: Studied about hashing and implemented a basic hash table. Solved 4 questions from CTCI.
 
 **Thoughts:** I am happy with the progress I am making. Need to improve time management further to maximize output.
+
+**Link to work:** 
+
+
+
+### Day 26: June 8, 2018
+
+**Today's Progress**: Completed Linked Lists from CTCI
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 27: June 9, 2018
+
+**Today's Progress**: Revised Linked Lists. Did Leetcode problems
+
+**Thoughts:** 
 
 **Link to work:** 
 
