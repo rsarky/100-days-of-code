@@ -261,5 +261,22 @@
 
 **Link to work:** 
 
+### Day 28: June 10, 2018
+
+**Today's Progress**: Day Off. Played football half of the day and slept the other half.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 29: June 11, 2018
+
+**Today's Progress**: Participated in Codeforces Div 2 contest. Could solve 2 out of 5 questions.
+
+**Thoughts:**  Hoped to accomplish more today. I will get better at managing my time because I have to achive my goals.
+Could have solved the 3rd question in the competition. Lesson : Don't give up in competitions.
+
+**Link to work:** 
+
 
   
